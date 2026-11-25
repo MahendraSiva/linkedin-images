@@ -1,2 +1,3 @@
 # Design log
 2026-11-25 | PERT three-point estimating, airport drive | PMP formula explainer | title + 3 numbered steps + departures board + why cards + exam tip | navy/purple, amber, neon green/cyan/pink | Inter + DejaVu Sans Mono | flat infographic, emoji plane
+2026-11-25 | evening | Saying "I don't know yet" with a plan and a time | before/after dialogue | headline + client question bubble + two side-by-side chat panels (bluff vs honest) + equation strip + two tip cards | cream dotted paper, terracotta, deep teal, navy | DM Serif Display + Space Grotesk + Caveat | chat-bubble dialogue with handwritten annotations
